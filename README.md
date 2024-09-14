@@ -1,4 +1,4 @@
-Name:Mansa Maury
+**Name:**Mansa Maury
 Company:Next24tech
 Domain:Web Development
 Duration: 02 months
